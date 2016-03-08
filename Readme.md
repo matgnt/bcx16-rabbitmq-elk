@@ -1,4 +1,11 @@
 
+# Start it
+
+```
+boot2docker start
+eval "$(boot2docker shellinit)"
+```
+
 
 # Debug
 ## Log into a Docker container
